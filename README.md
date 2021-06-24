@@ -1,5 +1,5 @@
 # my-sites
-head>
+<head>
    <link href="outlines.css" rel="stylesheet">
 </head>
 <body>
@@ -8,7 +8,7 @@ head>
 <div class="logo">
   <img src="http://freelancerblog.ru/wp-content/uploads/2015/01/html5-display.png" width="500" height="500">
 </div>
-</heder>
+</header>
 <main>
   <h2>Блог начинающего верстальщика</h2>
    <p>Сейчас я опишу свои цели на это лето</p> 
@@ -19,8 +19,8 @@ head>
       <li>Углубится в изучение HTML и CSS</li>
    </ol>
 </main>
-<header>
+<footer>
   <h3>Окончание первого блога</h3>
   <p><i>На этом мой первый лог заканчивается всем пока</i></p>
-</header> 
+</footer> 
 </body>
