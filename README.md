@@ -6,7 +6,7 @@
 <header>
 <h1>Сайт-блог начинающего верстальшика</h1>
 <div class="logo">
-  <img src="http://freelancerblog.ru/wp-content/uploads/2015/01/html5-display.png" width="500" height="500">
+  <img src="http://freelancerblog.ru/wp-content/uploads/2015/01/html5-display.png" >
 </div>
 </header>
 <main>
@@ -21,6 +21,6 @@
 </main>
 <footer>
   <h3>Окончание первого блога</h3>
-  <p><i>На этом мой первый лог заканчивается всем пока</i></p>
+  <p><i>На этом мой первый блог заканчивается всем пока</i></p>
 </footer> 
 </body>
